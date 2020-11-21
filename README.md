@@ -7,17 +7,12 @@ All code here will be written in Java, my language of choice. Note that some of 
 
 Note that some problems here may not actually be functional
 
-<<<<<<< HEAD
-### Directory Structure
-The files here are organized in packages by contest/category. The `uncategorized` location is for stuff that I did not bother to sort, or does not belong to to a contest
-
-Files not in a package are unfinished
-=======
-
 **A note on problem names:
   Sometimes DMOJ starts problem codes with a number. This is not allowed in Java. Those files will be prefixed with `_`**
   (eg. The problem [16 Bit S/W Only (16bitswonly)](http://www.dmoj.ca/problem/16bitswonly) will be named under `_16bitswonly`).
-g
+
+
+>>>>>>> d3e3db53204f294d4dd445ba97023eda0a5cb589
 ### Bruteforcable Problems
 
 It isn't everyday that you see a problem that bruteforcable in Java
