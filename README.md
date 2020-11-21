@@ -11,8 +11,6 @@ Note that some problems here may not actually be functional
   Sometimes DMOJ starts problem codes with a number. This is not allowed in Java. Those files will be prefixed with `_`**
   (eg. The problem [16 Bit S/W Only (16bitswonly)](http://www.dmoj.ca/problem/16bitswonly) will be named under `_16bitswonly`).
 
-
->>>>>>> d3e3db53204f294d4dd445ba97023eda0a5cb589
 ### Bruteforcable Problems
 
 It isn't everyday that you see a problem that bruteforcable in Java
