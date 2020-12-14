@@ -21,13 +21,13 @@ public class btoi07p3 {
         StringTokenizer tk = new StringTokenizer(in.readLine());
         N = Integer.parseInt(tk.nextToken()); M = Integer.parseInt(tk.nextToken()); C = Integer.parseInt(tk.nextToken());
         for (int i = 1; i <= N; i++) {
-            int num = 0;
+            int x = 0;
             int c;
             while ((c = in.read()) != ' ' && c != '\n'){
-                num *= 10;
-                num += c - '0';
+                x *= 10;
+                x += c - '0';
             }
-            arr[i] = num;
+            arr[i] = x;
         }
         segMin = new int[2097152];
         segMax = new int[2097152];
