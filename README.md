@@ -10,10 +10,12 @@ Note that some problems here may not actually be functional
 **A note on problem names:
   Sometimes DMOJ starts problem codes with a number. This is not allowed in Java. Those files will be prefixed with `_`**
   (eg. The problem [16 Bit S/W Only (16bitswonly)](http://www.dmoj.ca/problem/16bitswonly) will be named under `_16bitswonly`).
+  
+  Problems with multiple solutions will be suffixed with `_solutiontype`. For example, a problem with a secondary brute-force solution would be noted as `problemcode_bf`
 
 ### Bruteforcable Problems
 
-It isn't everyday that you see a problem that bruteforcable in Java
+It isn't everyday that you see a problem that is bruteforcable in Java
 
   - [Knapsack 2 (DPE)](http://www.dmoj.ca/problem/dpe)
     
