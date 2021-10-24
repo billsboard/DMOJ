@@ -17,6 +17,6 @@ Note that some problems here may not actually be functional
 
 It isn't everyday that you see a problem that is bruteforcable in Java
 
-  - [Knapsack 2 (DPE)](http://www.dmoj.ca/problem/dpe)
+  - [~~Knapsack 2 (DPE)~~](http://www.dmoj.ca/problem/dpe) (Constraints changed)
     
   
